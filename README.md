@@ -97,8 +97,8 @@ You need to clone **two separate repositories** (Frontend & Backend) and run the
 
 1.  **Clone the Backend:**
     ```bash
-    git clone [https://github.com/amancodes8/echobackend](https://github.com/amancodes8/echobackend)
-    cd echobackend
+    git clone [https://github.com/amancodes8/MindEchoN2/backend
+    cd backend
     ```
 
 2.  **Install dependencies:**
@@ -107,7 +107,7 @@ You need to clone **two separate repositories** (Frontend & Backend) and run the
     ```
 
 3.  **Create `.env` file:**
-    Create a file named `.env` in the `echobackend` directory and add:
+    Create a file named `.env` in the `backend` directory and add:
     ```env
     PORT=4000
     MONGODB_URI=your_mongodb_connection_string_here
@@ -126,8 +126,8 @@ You need to clone **two separate repositories** (Frontend & Backend) and run the
 
 1.  **Clone the Frontend:**
     ```bash
-    git clone [https://github.com/amancodes8/mindechofrontend](https://github.com/amancodes8/mindechofrontend)
-    cd mindechofrontend
+    git clone [https://github.com/amancodes8/MindEchoN2/frontend
+    cd frontend
     ```
 
 2.  **Install dependencies:**
@@ -136,7 +136,7 @@ You need to clone **two separate repositories** (Frontend & Backend) and run the
     ```
 
 3.  **Create `.env` file:**
-    Create a file named `.env` in the `mindechofrontend` directory and add:
+    Create a file named `.env` in the `frontend` directory and add:
     ```env
     VITE_BACKEND_URL=http://localhost:4000
     ```
