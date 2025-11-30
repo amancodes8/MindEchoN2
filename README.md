@@ -174,4 +174,4 @@ You need to clone **two separate repositories** (Frontend & Backend) and run the
 ---
 
 ## 🏁 Final Notes
-This project is a submission for the **Google Gemini** and **Lingo.dev** hackathon tracks. It demonstrates how multimodal AI and real-time communication can create a supportive, accessible mental health tool.
+This project demonstrates how multimodal AI and real-time communication can create a supportive, accessible mental health tool.
